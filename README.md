@@ -21,8 +21,6 @@
     <a href = "https://www.linkedin.com/in/marcos-levi-257525222/">
       <img width="25" src="linkedin.svg">
     </a>
- 
-    </a>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
