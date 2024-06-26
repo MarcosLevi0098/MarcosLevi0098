@@ -11,6 +11,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
+      <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
     <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
