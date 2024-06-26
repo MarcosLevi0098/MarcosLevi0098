@@ -11,7 +11,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-      <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+    <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
     <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,7 +20,8 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/marcos-levi-257525222/">
-      <img width="25" src="linkedin.svg">
+    <img align="center" height="30" width="40" alt="linkedin-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+</svg>
     </a>
 </div>
   
