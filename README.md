@@ -1,6 +1,6 @@
-## Faaaala dev, Marcos Aqui!
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp; Faaaala dev, Marcos Aqui!   
 
-<div>
+
 
   <img  height="180em" width = "400" src="https://github-readme-stats.vercel.app/api?username=MarcosLevi0098&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLevi0098&layout=compact&langs_count=16&theme=great-gatsby"/>
